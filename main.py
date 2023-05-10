@@ -26,4 +26,4 @@ async def mem(ctx):
    # Можем передавать файл как параметр!
     await ctx.send(file=picture)
  
-bot.run('MTA5MzIwNDUwMDAzMTk5NTkyNg.Gri1mf.KkhK7bQmm4vlGecVS2Zvrl6lhc3KMjmY8zs8C4')
+bot.run('tkn')
